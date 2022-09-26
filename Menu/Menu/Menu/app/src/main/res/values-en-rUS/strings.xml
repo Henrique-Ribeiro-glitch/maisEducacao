@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projects</string>
+    <string name="action_settings">Settings</string>
+    <!--    splashScreen-->
+    <string name="SplashScreen">Splash</string>
+    <!--    //-->
+    <!--    tela de login-->
+    <string name="telaLoginEditTextLogin">Type your e-mail</string>
+    <string name="telaLoginEditTextSenha">Type a password</string>
+    <string name="telaLoginButtonEntrar">Enter</string>
+    <string name="telaLoginButtonEsqueciASenha">Password forgotten</string>
+    <string name="telaLoginButtonCadastrarUsuario">Register</string>
+    <string name="DigiteUsuarioEOuSenha">Enter username and/or password!!</string>
+    <string name="UsuarioSenhaInvalidos">Invalid username/password!!</string>
+    <string name="LoginEfetuado">Login successfully</string>
+    <string name="UsuarioEOuSenha2">Enter username and/or password to register!!</string>
+    <string name="UsuarioCriado">User created whit successful!!</string>
+    <string name="CriarUsuário">Unable to create user!!</string>
+    <string name="DigiteOSeuEmail">Enter your email!!</string>
+    <string name="RedefinicaoDeSenha">Password reset email sent successfully!!</string>
+    <!--    //-->
+    <!--    main activity-->
+    <string name="buttonList">List</string>
+    <string name="mainActivityButtonDeslogar">Sing Out</string>
+    <!--    //-->
+    <!--    content main-->
+    <string name="editTextTitle">Title</string>
+    <string name="editTextDescription">Description</string>
+    <string name="editTextStartDate">Start date</string>
+    <string name="editTextExpectedEndDate">Expected end date</string>
+    <string name="editTextAmountPeople">Amount people</string>
+    <string name="buttonRegister">Register</string>
+    <string name="buttonProjectsScreen">List</string>
+    <string name="edittext_title_seterror">Type the title</string>
+    <string name="edittext_description_seterror">Type the description</string>
+    <string name="edittext_start_seterror">Type the start date</string>
+    <string name="edittext_expected_seterror">Type the espected end date</string>
+    <string name="edittext_people_seterror">Type the amount of people</string>
+    <string name="projectAdded">Project added whit success</string>
+    <string name="RegisterError">Register Error !!</string>
+    <!--    //-->
+</resources>

@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Projetos</string>
+    <string name="action_settings">Configurações</string>
+    <!--    splashScreen-->
+    <string name="SplashScreen">Splash</string>
+    <!--    //-->
+    <!--    tela de login-->
+    <string name="telaLoginEditTextLogin">Digite seu e-mail</string>
+    <string name="telaLoginEditTextSenha">Digite uma senha</string>
+    <string name="telaLoginButtonEntrar">Entrar</string>
+    <string name="telaLoginButtonEsqueciASenha">Esqueci a Senha</string>
+    <string name="telaLoginButtonCadastrarUsuario">Cadastrar</string>
+    <string name="DigiteUsuarioEOuSenha">Digite usuario e/ou senha!!</string>
+    <string name="UsuarioSenhaInvalidos">Usuário/senha inválidos!!</string>
+    <string name="LoginEfetuado">Login efetuado com sucesso</string>
+    <string name="UsuarioEOuSenha2">Digite usuario e/ou senha para efetuar o cadastro!!</string>
+    <string name="UsuarioCriado">Usuário criado com sucesso</string>
+    <string name="CriarUsuário">Não foi possível criar usuário!!</string>
+    <string name="DigiteOSeuEmail">Digite o seu email!!</string>
+    <string name="RedefinicaoDeSenha">Email com redefinição de senha enviado com sucesso</string>
+    <!--    //-->
+    <!--    main activity-->
+    <string name="buttonList">Lista</string>
+    <string name="mainActivityButtonDeslogar">Deslogar</string>
+    <!--    //-->
+    <!--    content main-->
+    <string name="editTextTitle">Título</string>
+    <string name="editTextDescription">Descrição</string>
+    <string name="editTextStartDate">Data de início</string>
+    <string name="editTextExpectedEndDate">Data de termino esperada</string>
+    <string name="editTextAmountPeople">Quantidade de pessoas</string>
+    <string name="buttonRegister">Cadastrar</string>
+    <string name="buttonProjectsScreen">Lista</string>
+    <string name="edittext_title_seterror">Digite um nome</string>
+    <string name="edittext_description_seterror">Digite uma quantidade</string>
+    <string name="edittext_start_seterror">Digite a data de início</string>
+    <string name="edittext_expected_seterror">Digite a data esperada de termino</string>
+    <string name="edittext_people_seterror">Digite a quantidade de pessoas</string>
+    <string name="projectAdded">Projeto adicionado com sucesso</string>
+    <string name="RegisterError">Erro ao cadastrar!!</string>
+</resources>

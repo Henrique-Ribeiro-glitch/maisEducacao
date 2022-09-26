@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414080892860",
+    "firebase_url": "https://projeto-estoque-3883d.firebaseio.com",
+    "project_id": "projeto-estoque-3883d",
+    "storage_bucket": "projeto-estoque-3883d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414080892860:android:dbf32ad057e02135edf5b9",
+        "android_client_info": {
+          "package_name": "junior.henrique.menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414080892860-n59ck1ln2aghd5e8tnkarkpunnun6614.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgD_m3xGZVoK_4yj6W0f53-IWJ_ScwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414080892860-n59ck1ln2aghd5e8tnkarkpunnun6614.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
